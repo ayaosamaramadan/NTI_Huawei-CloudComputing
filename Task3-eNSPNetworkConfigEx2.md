@@ -128,7 +128,7 @@ ping 10.1.30.10
 ping 10.1.40.1
 ping 10.1.40.2
 ```
-![TASK2-3](https://github.com/user-attachments/assets/6f5fd2c3-9692-496d-9703-c95ff35c8e6f)
+![TASK2-1](https://github.com/user-attachments/assets/9f006c8f-6a55-48c6-9fc7-6cbd3e41e5dd)
 
 ### **From PC2**
 
@@ -153,7 +153,9 @@ ping 10.1.40.1
 ping 10.1.40.2
 ```
 
-![TASK2-1](https://github.com/user-attachments/assets/9f006c8f-6a55-48c6-9fc7-6cbd3e41e5dd)
+![TASK2-3](https://github.com/user-attachments/assets/6f5fd2c3-9692-496d-9703-c95ff35c8e6f)
+
+
 
 
 

@@ -37,4 +37,4 @@ Here’s how I set up FusionCompute CNA01:
      - Used the default credentials (admin / IaaS@PORTAL-CLOUD8!) and followed the product documentation for further setup and testing.
 
 
-![kvm](https://github.com/user-attachments/assets/0c381075-1cca-46a1-95e2-5252d1456315)
+![kvm](https://github.com/user-attachments/assets/ba315d75-7e33-40a6-87d8-d5ecdbffc450)

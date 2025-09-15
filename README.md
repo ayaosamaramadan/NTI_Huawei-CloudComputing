@@ -36,9 +36,3 @@ Welcome to my documentation of the **HCIA Huawei Cloud Computing** journey! Here
         </tr>
     </tbody>
 </table>
-
-## 🏆 Achievements
-
-- Completed hands-on labs and real-world scenarios
-- Earned HCIA Cloud Computing certification
-- Documented best practices and key learnings

@@ -27,11 +27,14 @@ Welcome to my documentation of the **HCIA Huawei Cloud Computing** journey! Here
     </thead>
     <tbody>
         <tr>
-            <td align="center">
+           <td align="center">
                 <img src="https://github.com/user-attachments/assets/891d88f6-b58c-4f74-a24b-85bdb8d47d90" alt="HCIA" width="320"/>
             </td>
             <td align="center">
                 <img src="https://github.com/user-attachments/assets/3e7b44df-d000-420c-886c-915814cc1d23" alt="degree" width="620"/>
+            </td>
+                   <td align="center">
+                <img src="https://github.com/user-attachments/assets/ad667ea3-cdfb-44fa-80b6-26bffa5be9ad" alt="NTI ATTEDND CERTIF" width="620"/>
             </td>
         </tr>
     </tbody>
